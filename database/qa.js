@@ -7,7 +7,7 @@ const quizDictionary = {
         },
         2: {
             question: ['What shape, has 4 equal sides?'],
-            prefferedAnswer: ['square'],
+            prefferedAnswer: ['cube'],
             alternateAnswers: ['four sides'],
         },
         3: {
