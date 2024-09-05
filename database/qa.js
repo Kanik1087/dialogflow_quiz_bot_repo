@@ -2,7 +2,7 @@ const quizDictionary = {
     1: {
         1: {
             question: ['3, add 6, equals?'],
-            prefferedAnswer: [9],
+            prefferedAnswer: [2],
             alternateAnswers: ['nine'],
         },
         2: {
